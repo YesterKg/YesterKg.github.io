@@ -1,2 +1,1 @@
 # YesterKg.github.io
-pages
